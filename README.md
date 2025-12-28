@@ -14,15 +14,15 @@ This system combines:
 
 # 📸 Screenshots
 
-> 📌 _Add your UI/backend screenshots here later._
-
 ### 🔹 Streamlit UI
 
-_(Add screenshot)_
+![1766936010007](image/README/1766936010007.png)
+
+![1766936020505](image/README/1766936020505.png)
 
 ### 🔹 Folder Structure
 
-_(Add screenshot)_
+![1766935981284](image/README/1766935981284.png)
 
 ---
 
